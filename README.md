@@ -1,5 +1,8 @@
 # Codex Project Tool Release
 
+注意！！！请在使用前确保会话对话已完成，且工具缓存数据无留存必要！！！该指令会解除本次进程的Chatgpt app tools占用！！！故使用后会导致tools无法被调用！！！需要重启codex后才能重新正常使用完的Chatgpt app tools！！！
+本指令的推荐使用场景：尝试在项目中新开本地会话却遇到报错（即下文相关报错）时使用。
+
 Windows 小工具，用于结束占用 Codex 项目目录的辅助进程，临时解决新建本地会话失败（`Could not use this project for a local chat`）的问题。
 
 > [!NOTE]
