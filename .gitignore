@@ -1,0 +1,12 @@
+# Local shortcuts and diagnostic output must not be published.
+*.lnk
+*.log
+*.dmp
+*.zip
+last-run*.json
+config.toml
+.env
+.env.*
+.vs/
+bin/
+obj/
